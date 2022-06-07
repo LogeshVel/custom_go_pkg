@@ -4,11 +4,11 @@ Working with custom Golang package in our Project with Go Module initialized.
 
 The custom Go package locates in our Project directory itself.
 
-PATH:
+#### PATH:
 
 Need to add the Project's root directory path to the GOPATH
 
-go mod
+#### go mod
 
 ```
 go env -w GO111MODULE=on
